@@ -24,7 +24,7 @@ Para actualizar el repo local con los cambios de otro es:
 
 git pull
 
-========
+=========
 
 Para swing bajar y meter en classpath:
 
